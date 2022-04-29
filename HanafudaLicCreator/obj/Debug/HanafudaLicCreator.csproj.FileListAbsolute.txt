@@ -1,0 +1,10 @@
+C:\Users\TeleKoba\source\repos\HanafudaLicCreator\HanafudaLicCreator\bin\Debug\HanafudaLicCreator.exe.config
+C:\Users\TeleKoba\source\repos\HanafudaLicCreator\HanafudaLicCreator\bin\Debug\HanafudaLicCreator.exe
+C:\Users\TeleKoba\source\repos\HanafudaLicCreator\HanafudaLicCreator\bin\Debug\HanafudaLicCreator.pdb
+C:\Users\TeleKoba\source\repos\HanafudaLicCreator\HanafudaLicCreator\obj\Debug\HanafudaLicCreator.csproj.AssemblyReference.cache
+C:\Users\TeleKoba\source\repos\HanafudaLicCreator\HanafudaLicCreator\obj\Debug\HanafudaLicCreator.Form1.resources
+C:\Users\TeleKoba\source\repos\HanafudaLicCreator\HanafudaLicCreator\obj\Debug\HanafudaLicCreator.Properties.Resources.resources
+C:\Users\TeleKoba\source\repos\HanafudaLicCreator\HanafudaLicCreator\obj\Debug\HanafudaLicCreator.csproj.GenerateResource.cache
+C:\Users\TeleKoba\source\repos\HanafudaLicCreator\HanafudaLicCreator\obj\Debug\HanafudaLicCreator.csproj.CoreCompileInputs.cache
+C:\Users\TeleKoba\source\repos\HanafudaLicCreator\HanafudaLicCreator\obj\Debug\HanafudaLicCreator.exe
+C:\Users\TeleKoba\source\repos\HanafudaLicCreator\HanafudaLicCreator\obj\Debug\HanafudaLicCreator.pdb
